@@ -1,0 +1,342 @@
+*
+{
+	font-family:arial;
+	box-sizing: border-box;
+	margin:0;
+	padding:0;
+}
+* p
+{
+	font-size:11px;
+}
+#wrapper
+{
+width:100%;
+height:auto;
+}
+
+#header
+{
+	width:100%;
+	height:auto;
+}
+
+.qms
+{
+	width:200px;
+	height:50px;
+	background-color:gray;
+	border:2px solid black;
+	text-align:center;
+	padding-top:10px;
+	
+}
+
+.apprisal
+{
+	float:left;
+	width:100%;
+	
+
+}
+
+.para, .rating
+{
+	width:200px;
+	height:60px;
+	background-color:gray;
+	border:1px solid black;
+	text-align:center;
+	padding-top:20px;
+	font-weight:bold;
+	float:left;
+	color:black;
+	
+}
+.disc
+{
+	width:200px;
+	height:60px;
+	float:left;
+	background-color:#f5f5f5;
+	border:1px solid black;
+	text-align:center;
+	padding-top:20px;
+	font-weight:bold;
+	float:left;
+	color:black;
+	
+}
+.box1
+{
+	width:200px;
+	height:30px;
+	background-color:gray;
+	border:1px solid black;
+	text-align:center;
+	padding-top:6px;
+	font-weight:bold;
+	color:white;
+	float:left;
+	
+}
+.quality
+{
+	width:200px;
+	height:60px;
+	float:left;
+	color:black;
+
+}
+
+.min, .max , .Weightage
+{
+	float:left;
+	text-align:center;
+	border-left:1px solid black;
+	border-bottom:1px solid black;
+	color:black;
+}
+.min, .max , .Weightage p
+{
+	padding-top:7px;
+	
+}
+.min, .max
+{
+	width:55px;
+	height:30px;
+	background-color:gray;
+	float:left;
+}
+.Weightage
+{
+	width:90px;
+	height:30px;
+	background-color:#fcd5b5;
+	text-align:center;
+	border-right:1px solid black;
+	float:left;
+	
+}
+.cont
+{
+	width:100%;
+}
+
+.cn1, .cn2, .cn3, .cn4
+{
+	width:200px;
+	height:105px;
+	float:left;
+	border:1px solid black;
+	color:black;
+}
+
+.cn1
+{
+	background-color:#404040;
+	color:white;
+	padding-top:5px;
+	padding-left:10px;
+}
+.cn2
+{
+	padding-left:10px;
+	
+}
+
+table
+{
+	width:100%;
+	height:105px;
+	color:black;
+	
+}
+
+table tr td
+{
+		border:1px solid black;
+}
+
+table tr td
+{
+	font-size:11px;
+	padding-left:10px;
+}
+
+.ark
+{
+	border:none;
+}
+.cn5
+{
+	width:110px;
+	border-right:1px solid black;
+	float:left;
+}
+.score tr td
+{
+	text-align:center;
+	padding:1px;
+	
+}
+
+.hrw p
+{
+
+text-align:center;
+
+	
+}
+
+.cn6 p
+{
+	padding-top:40px;
+	float:left;
+	margin-left:30px;
+}
+.message
+{
+	width:450px;
+	height:105px;
+	background-color:#f5f5f5;
+	float:left;
+}
+
+.rbm
+{
+	width:50px;
+	height:20px;
+	margin:40px 26px 0px;
+}
+.num
+{
+	float: left;
+	width:100px;
+	height:95px;
+	position:relative;
+}
+#employee
+{
+	width:77px;
+	margin:11px 26px 0px;
+	position:absolute;
+	float:left;
+}
+
+.mark
+{
+	width:150px;
+	height:20px;
+	float:left;
+	margin-top:40px;
+}
+.mark p
+
+{
+	float:left;
+}
+.dis
+{
+	width:174px;
+	height:95px;
+	margin-left:20px;
+	display:none;
+	float:left;
+}
+
+.area
+{
+	width:170px;
+	height:85px;
+	margin:6px 4px 0px;
+	float:left;
+	
+}
+.spc
+{
+	width:100%;
+	height:8px;
+	float:left;
+}
+
+.foot
+
+{
+	
+	width:1250px;
+	height:40px;
+	float:left;
+	background-color:#bfbfbf;
+}
+
+.final 
+
+{
+	margin-left:55%;
+	width:200px;
+	height:auto;
+	margin-top:10px;
+	float:left;
+	color:black;
+}
+.dino
+{
+	margin-left:20px;
+}
+.give
+{
+	float:left;
+}
+
+#save
+{
+	width:95px;
+	height:28px;
+	background-color:green;
+	border:none;
+	border-radius:4px;
+	margin: 6px 47px 0px;
+	color:white;
+	cursor:pointer;
+}
+#info
+{
+	font-size:10px;
+	float:left;
+	position:absolute;
+	width:100px;
+	margin: 11px 111px 0px;
+	color:red;
+}
+#base, #base2, #base3, #base4, #base5, #base6, #base7, #base8
+{
+	font-size:10px;
+	padding:0px 3px 0px;
+	color:red;
+
+}
+.logout
+{
+	width:100px;
+	background-color:gray;
+	height:20px;
+	float:right;
+	margin-right:10px;
+	color:white;
+	text-align:center;
+	border-radius:3px;
+	cursor:pointer;
+}
+.logout p
+{ 
+padding-top:3px;
+}
+.logout p a
+{
+	
+	color:white;
+	text-decoration:none;
+}
+

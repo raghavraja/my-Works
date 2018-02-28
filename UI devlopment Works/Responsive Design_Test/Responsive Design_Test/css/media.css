@@ -1,0 +1,135 @@
+/* mobile device */
+@media only screen and (min-width: 280px) and (max-width: 480px)
+{
+	.logo img
+	{
+	margin-left:25px;
+	}
+	.mail
+	{
+		display:none;
+	}
+	.nav
+	{
+		padding-bottom:8px;
+	}
+	.search
+	{
+		float:none;
+		width:90%;
+		padding-bottom:8px;
+	}
+	#box
+	{
+		width:100%;
+		margin-left:20px;
+	}
+	.check
+	{
+		margin-top:10px;
+	}
+	.project
+	{
+		margin-top:20px;
+	}
+	.steve
+	{
+		width:30%;
+	}
+	.das2
+	{
+		display:none;
+	}
+	.das1
+	{
+		float:none;
+		text-align:center;
+	}
+	.project
+	{
+		width:100%;
+		height:auto;
+		margin:0px;
+		margin-top:10px;
+		padding:0px;
+	}
+	.pro1
+	{
+		float:none;
+		width:100%;
+		height:70px;
+		padding-left:37px;
+	}
+	.profile
+	{
+		width:100%;
+		margin:0;
+		margin-top:10px;
+	}
+	.pic
+	{
+		margin-left:20px;
+	}
+	.folow
+	{
+		width:100px;
+	}
+		.folow p
+	{
+		font-size:12px;
+	}
+	.mailbox
+	{
+		width:100%;
+		margin:0px;
+		margin-top:10px;
+	}
+	.box4
+	{
+		width:100%;
+		float:none;
+		margin-left:70px;
+		padding-bottom:30px;
+	}
+	.box5
+	{
+		width:100%;
+		padding-left:20px;
+		padding-top:10px;
+	}
+	.task
+	{
+		width:100%;
+		margin:0px;
+		margin-top:10px;
+	}
+	
+	.contact
+	{
+		width:100%;
+		margin:0;
+		margin-top:10px;
+	}
+	
+input[type="text"]
+{
+	width:84%;
+	
+}
+.info
+{
+	width:100%;
+}
+.sens 
+{
+	padding-left:10px;
+}
+.drive
+{
+	margin-left:60px;
+}
+.sidebar
+{
+width:43%;
+}
+}
